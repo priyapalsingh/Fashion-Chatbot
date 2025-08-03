@@ -12,7 +12,7 @@ st.markdown("""
             color: #F63366;
         }
         .response-box {
-            background-color: #ffe6eb;
+            background-color: #ffff66;
             padding: 15px;
             border-radius: 10px;
             margin-top: 10px;
