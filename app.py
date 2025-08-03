@@ -41,6 +41,10 @@ def get_advice(message):
         return "A traditional dress or a classy formal outfit would be perfect for a wedding."
     elif "winter" in message:
         return "Layer up with warm coats, boots, and scarves. Keep it cozy and fashionable."
+    elif "school" in message:
+        return "wear a neat and clean and a proper school uniform "
+    elif "college" in message:
+        return "A casual wear or a classy formal outfit would be perfect for college"
     else:
         return "That's a great question! Try being comfortable and confident in whatever you wear."
 
